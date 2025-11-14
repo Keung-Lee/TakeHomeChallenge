@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\klee\source\repos\TakeHomeChallenge\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-11-13T07:04:42.0457879Z||;True|2025-11-13T17:58:10.5371747+11:00||;True|2025-11-13T17:56:28.0423962+11:00||;True|2025-11-13T17:46:21.4876198+11:00||;True|2025-11-13T17:44:13.0604063+11:00||;True|2025-11-13T17:44:04.7574564+11:00||;True|2025-11-13T17:37:50.1348312+11:00||;True|2025-11-13T17:31:47.3480488+11:00||;True|2025-11-13T16:38:27.8504883+11:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
